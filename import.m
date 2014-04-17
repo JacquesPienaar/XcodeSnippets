@@ -1,5 +1,5 @@
 // Import
-// 
+// Import Class
 //
 // IDECodeSnippetCompletionPrefix: mmm
 // IDECodeSnippetCompletionScopes: [All]
