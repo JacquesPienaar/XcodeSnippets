@@ -1,4 +1,4 @@
-// pa
+// Property assign
 // 
 //
 // IDECodeSnippetCompletionPrefix: pa
