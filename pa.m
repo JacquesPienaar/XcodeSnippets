@@ -1,8 +1,8 @@
 // Property assign
-// 
+// Property Assign
 //
 // IDECodeSnippetCompletionPrefix: pa
-// IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: EEC72E9D-D32D-4F84-9B0B-CC28AE49A2C3
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
