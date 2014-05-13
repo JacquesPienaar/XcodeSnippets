@@ -6,6 +6,6 @@
 // IDECodeSnippetIdentifier: 43CF7446-7046-49CA-89F1-CC4BD5E48B09
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark -
 #pragma mark <#name#>
