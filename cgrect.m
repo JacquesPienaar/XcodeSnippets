@@ -1,4 +1,4 @@
-// CGRect
+// CGRect zero origin
 // rect with zero origin
 //
 // IDECodeSnippetCompletionPrefix: rz
